@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">长河老表</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="other">其他</string>
+    <string name="main_page">首页</string>
+    <string name="news">新闻</string>
+    <string name="have_fun">段子</string>
+    <string name="picture">图文</string>
+    <string name="beauty">福利</string>
+
+    <string name="text_app_intro">应用简介</string>
+    <string name="text_current_version">当前版本</string>
+    <string name="leisure_version" translatable="false">Leisure Version 2.2</string>
+    <string name="text_check_update">检查更新</string>
+    <string name="text_demo_video">演示视频</string>
+    <string name="text_good_job">点个赞</string>
+    <string name="text_good_job_summary">去https://github.com/MummyDing/Leisure给个star吧！</string>
+    <string name="text_share_leisure">分享闲暇</string>
+    <string name="text_author">作者</string>
+    <string name="author_name">MummyDing</string>
+    <string name="text_blog">博客</string>
+    <string name="author_blog" translatable="false">mummyding.github.io</string>
+    <string name="text_author_github">作者 GitHub</string>
+    <string name="author_github" translatable="false">https://github.com/MummyDing</string>
+    <string name="text_email">邮箱</string>
+    <string name="author_email">MummyDing@outlook.com</string>
+    <string name="text_copyright">版权</string>
+    <string name="text_data">数据</string>
+    <string name="text_data_summary">所有数据均来自公开的API,版权属于原作者</string>
+    <string name="text_attention">注意</string>
+    <string name="text_attention_summary">此应用禁止用于商业目的</string>
+    <string name="text_license" translatable="false">License</string>
+    <string name="notif_info_copied">信息已添加至剪切板,你可以将其粘贴到编辑区域</string>
+    <string name="project_url" translatable="false">https://github.com/MummyDing/Leisure/</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="transfer_apk_to_friend">发送%1$s安装包给好友</string>
+    <string name="share_text">应用介绍:长河老表，推荐给您也来用用，下载地址：https://www.pgyer.com/sZAB</string>
+    <string name="share">分享到</string>
+    <string name="no_email_app_tip">请先安装邮件应用并设置账户，或直接发送邮件至changhelaobiao@163.com。</string>
+
+    <string name="label_get_verify_code">获取验证码</string>
+    <string name="save">保存</string>
+
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+
+    <!-- 共享过度动画 -->
+    <string name="transition_photos">transition_animation_news_photos</string>
+    <string name="photo_news">图片新闻</string>
+
+    <string name="common_error_msg">网络连接出现问题,请重试</string>
+    <string name="common_no_network_msg">网络没有连接,请点击屏幕重试</string>
+    <string name="common_empty_msg">没有数据，请点击屏幕重试</string>
+    <string name="common_loading_message">正在加载中...</string>
+
+</resources>

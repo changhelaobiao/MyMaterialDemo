@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/icon_home"
+            android:title="@string/main_page" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/icon_news"
+            android:title="@string/news" />
+        <item
+            android:id="@+id/nav_fun"
+            android:icon="@drawable/icon_joke"
+            android:title="@string/have_fun" />
+        <item
+            android:id="@+id/nav_picture"
+            android:icon="@drawable/icon_words"
+            android:title="@string/picture" />
+        <item
+            android:id="@+id/nav_beauty"
+            android:icon="@drawable/icon_beauty"
+            android:title="@string/beauty" />
+    </group>
+
+    <item android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/icon_share"
+                android:title="分享" />
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/icon_settings"
+                android:title="设置" />
+        </menu>
+    </item>
+
+</menu>

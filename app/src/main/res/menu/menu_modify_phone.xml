@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.lpx.schoolinhands.ui.activity.my.ModifyPhoneActivity">
+    <item
+        android:id="@+id/itemGoModifyPhone"
+        android:enabled="false"
+        android:icon="@drawable/selector_icon_save"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+</menu>
