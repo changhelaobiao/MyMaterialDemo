@@ -2,12 +2,12 @@
 一款个人日常练手的Android项目
 
 ## Preview
-![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230000.jpg)
-![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528225932.jpg)
-![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528225950.jpg)
-![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230024.jpg)
-![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230017.jpg)
-![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230009.jpg)
+![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230000.jpg=300x600)
+![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528225932.jpg=300x600)
+![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528225950.jpg=300x600)
+![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230024.jpg=300x600)
+![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230017.jpg=300x600)
+![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230009.jpg=300x600)
 
 ## Download
 
