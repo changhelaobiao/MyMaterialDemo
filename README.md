@@ -1,21 +1,26 @@
 # MyMaterialDemo
 一款个人日常练手的Android项目
-##Preview
+
+## Preview
 ![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230000.jpg)
 ![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528225932.jpg)
 ![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528225950.jpg)
 ![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230024.jpg)
 ![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230017.jpg)
 ![image](https://github.com/changhelaobiao/MyMaterialDemo/blob/master/screenshot/20170528230009.jpg)
-##Download
-##Thanks
-##Open Source
-##About me
+
+## Download
+
+## Thanks
+
+## Open Source
+
+## About me
 微信公众号：changhelaobiao</br>
 个人微信：liaopeixin111</br>
 个人邮箱：changhelaobiao@163.com</br>
 博客网站：https://changhelaobiao.github.io/</br>
-##License
+## License
 Copyright (C) 2017 changhelaobiao</br>
 
 Licensed under the Apache License, Version 2.0 (the "License");</br>
