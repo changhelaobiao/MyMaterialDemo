@@ -1,5 +1,5 @@
 # MyMaterialDemo
-####一款个人日常练手的Android项目
+#### 一款个人日常练手的Android项目
 
 ## Preview
 <table>
@@ -20,12 +20,19 @@
 ## Thanks
 
 ## Open Source
+#### Leancloud：https://leancloud.cn/
+#### BGASwipeBackLayout：https://github.com/bingoogolapple/BGASwipeBackLayout-Android
+#### MaterialDialogs：https://github.com/afollestad/material-dialogs
+#### EventBus：https://github.com/greenrobot/EventBus
+#### CircleImageView：https://github.com/hdodenhof/CircleImageView
+#### PhotoPicker：https://github.com/donglua/PhotoPicker
+#### AndroidViewAnimations：https://github.com/daimajia/AndroidViewAnimations
 
 ## About me
-####微信公众号：changhelaobiao</br>
-####个人微信：liaopeixin111</br>
-####个人邮箱：changhelaobiao@163.com</br>
-####博客网站：https://changhelaobiao.github.io/</br>
+#### 微信公众号：changhelaobiao</br>
+#### 个人微信：liaopeixin111</br>
+#### 个人邮箱：changhelaobiao@163.com</br>
+#### 博客网站：https://changhelaobiao.github.io/</br>
 ## License
 Copyright (C) 2017 changhelaobiao</br>
 
